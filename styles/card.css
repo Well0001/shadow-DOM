@@ -1,0 +1,28 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", sans-serif;
+}
+
+body {
+    background-color: rgb(229, 230, 230);
+}
+
+.content h1{
+    font-weight: 80;
+    color: rgb(255, 254, 254);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-size: 45px;
+}
+
+.title{
+    background-color: rgb(250, 215, 215);
+    width: 370px;
+    position: relative;
+    left: 10%;
+    border-radius: 20px;
+}
